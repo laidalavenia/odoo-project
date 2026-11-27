@@ -5,7 +5,7 @@
 |---|---|
 | Versi dokumen | 1.0 |
 | Tanggal | 5 Oktober 2026 |
-| Penulis | (nama kamu) |
+| Penulis | Laida L |
 | Status | Draft untuk review |
 
 ### Riwayat Revisi
